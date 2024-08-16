@@ -1,0 +1,72 @@
+# IntelliJ IDEA generated files
+.idea/
+*.iws
+*.iml
+*.ipr
+out/
+target/
+
+# IntelliJ IDEA configuration
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/gradle.xml
+.idea/libraries
+.idea/modules.xml
+.idea/.name
+.idea/vcs.xml
+.idea/jsLibraryMappings.xml
+.idea/projectCodeStyle.xml
+.idea/misc.xml
+.idea/dictionaries
+.idea/assetWizardSettings.xml
+
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Virtual machine crash logs
+hs_err_pid*
+
+# macOS generated files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# macOS icon files
+Icon
+._*
+
+# macOS specific files
+.Spotlight-V100
+.Trashes
+
+# Gradle files
+.gradle/
+build/
+
+# Eclipse config files
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+
+# Windows specific files
+Thumbs.db
